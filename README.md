@@ -4,8 +4,7 @@
 ```
 #include <stdio.h>
 #include <stdlib.h>
-#include <Sfr/sfr.h>
-#pragma comment(lib, "sfr.lib")
+#include "libsfr"
  
 int main(int argc, char** argv)
 {
@@ -135,3 +134,6 @@ int main(int argc, char** argv)
 ![效果图2](images/img_sector_sfr.jpg)
 
 ![视频演示](videos/demo.mp4)
+
+https://github.com/user-attachments/assets/008ac9a2-938b-46b5-9f5f-09e1cf518d94
+
