@@ -128,7 +128,8 @@ int main(int argc, char** argv)
 	return 0;
 }
 ```
-![视频演示](https://github.com/user-attachments/assets/008ac9a2-938b-46b5-9f5f-09e1cf518d94)
+
+https://github.com/user-attachments/assets/008ac9a2-938b-46b5-9f5f-09e1cf518d94
 
 ![效果图1](images/img_trapezoid_sfr.jpg)
 
